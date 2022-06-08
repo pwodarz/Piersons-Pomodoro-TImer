@@ -1,6 +1,7 @@
 # Pierson's Pomodoro Timer
 
 A GUI Pomodoro Timer application. Available as an exe or .py file.
+![Application Screenshot](./ApplicationScreenshot.png?raw=true "Application Screenshot")
 
 ## Python
 To run, download the code (piersons-pomodoro-timer.py and tomato.png) and execute as a python script. 
